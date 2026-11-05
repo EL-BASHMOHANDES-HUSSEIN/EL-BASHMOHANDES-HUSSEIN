@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=HUSNEX&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Digital%20Solutions%20%26%20Software%20Automation&descSize=18&descAlignY=60" width="100%" alt="HUSNEX Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=HUSNEX&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Digital%20Solutions%20and%20Software%20Automation&descSize=18&descAlignY=60" width="100%" alt="HUSNEX Banner"/>
 
 # Hussain Ali
 
@@ -10,8 +10,8 @@ IT & Cybersecurity Engineer &nbsp;•&nbsp; Python Developer
 
 <br>
 
-<a href="https://www.instagram.com/almuhandistv/?hl=ar">
-  <img src="https://img.shields.io/badge/Instagram-@almuhandistv-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://instagram.com/mr.husseiny313">
+  <img src="https://img.shields.io/badge/Instagram-@mr.husseiny313-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://github.com/el-bashmohandes-hussein">
   <img src="https://img.shields.io/badge/GitHub-el—bashmohandes—hussein-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -33,7 +33,7 @@ IT & Cybersecurity Engineer &nbsp;•&nbsp; Python Developer
 
 ## 🚀 About Me
 
-| | |
+| Category | Details |
 |:—|:—|
 | 🎓 University | Middle Technical University — Polytechnic College of Engineering |
 | 🔒 Major | Information Technology Engineering & Cybersecurity |
